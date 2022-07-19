@@ -102,3 +102,7 @@ ___
 >|table     |data       |here        |
 >|it doesn't|actually   |have to line up nicely!|
 ___
+
+## Git Book
+
+Вся книга Pro Git, написанная Скоттом Чаконом и Беном Страубом и опубликованная. Весь контент лицензирован в соответствии с некоммерческой лицензией Creative Commons Attribution Share Alike 3.0. Печатные версии книги доступны на сайте Amazon.com.
